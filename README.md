@@ -77,7 +77,7 @@ AI-Gesture-Controlled-Virtual-Keyboard-and-Mouse/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/AI-Gesture-Controlled-Virtual-Keyboard-and-Mouse.git
+git clone https://github.com/ManvithaPantham/AI-Gesture-Controlled-Virtual-Keyboard-and-Mouse.git
 ```
 
 ### 2. Navigate to the project folder
@@ -148,6 +148,7 @@ Passionate about Artificial Intelligence, Computer Vision, and Full Stack Develo
 LinkedIn: *(www.linkedin.com/in/manvitha-pantham-a2382534b)*
 
 GitHub: *(https://github.com/ManvithaPantham)*
+Repository: https://github.com/ManvithaPantham/AI-Gesture-Controlled-Virtual-Keyboard-and-Mouse
 
 ---
 
